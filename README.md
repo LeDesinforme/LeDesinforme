@@ -6,6 +6,6 @@ The game, even though the features and code are implemented, isn't entirely work
 The game was made by :
 Maxime Leguevacques (Programmer)
 Christophe Huang (Programmer)
-Qianduo Huang (Artist)
-Nadir Zahim (Artist)
-Lydia Liu (Sound Designer)
+Qianduo Huang (Artist)  
+Nadir Zahim (Artist)  
+Lydia Liu (Sound Designer)  
